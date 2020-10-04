@@ -1,0 +1,39 @@
+﻿body {
+    background-color: lavender;
+    border: dotted;
+    background-image: none;
+}
+
+.label {
+    background-color: none;
+    border: unset;
+    background-image: none;
+    clear: unset;
+    outline: unset;
+    font-size: 12px;
+    font-family: Arial;
+    resize: none;
+}
+
+
+.button{
+    border:dashed;
+    font-size:13px;
+    font-family:Arial;
+    color:black;
+    background-color:bisque;
+    background-image:none
+}
+
+.textbox{
+    border:none;
+    color:black;
+    font-family:Arial;
+    font-size:12px;
+    background-color:none;
+    background-image:none;
+}
+
+.button:hover{
+    box-shadow:0 12px 16px purple ;
+}
